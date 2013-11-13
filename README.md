@@ -1,4 +1,4 @@
-Create a new repository on the command line
+<b>Create a new repository on the command line</b>
 
 touch README.md
 
